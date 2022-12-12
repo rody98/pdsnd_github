@@ -15,5 +15,5 @@ bikeshare.py
 ### Credits
 lessons by udacity.
 
-#i forkedthis project and do some git commands on it.
+#i forked this project and do some git commands on it.
 #i created a branch named documentation and i can switch between the master branch and this branch.
